@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target sync_messages[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/sync_messages.dir/src/sync_messages.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/harpreetsingh/github/sync-messages/devel/.private/sync_messages/lib/sync_messages/sync_messages[0m
+[100%] Built target sync_messages
